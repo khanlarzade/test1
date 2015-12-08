@@ -1,0 +1,5 @@
+printf ("hello world");
+int c;
+c++;
+cout << "c++ the best";
+return 0;
